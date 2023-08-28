@@ -9,3 +9,4 @@ The Eclipse EMF&trade; project  provides code generation facilities for building
 - [EMF Updates](https://download.eclipse.org/modeling/emf/emf/builds/)
 - [EMF Discussions](https://github.com/eclipse-emf/org.eclipse.emf/discussions)
 - [EMF Issues](https://github.com/eclipse-emf/org.eclipse.emf/issues)
+- [EMF Maven Central](https://repo1.maven.org/maven2/org/eclipse/emf/) `org.eclipse.emf.*`/`org.eclipse.xsd.*`
