@@ -5,7 +5,7 @@
 The Eclipse EMF&trade; project  provides code generation facilities for building tools and applications based on a structured data model.
 
 - [EMF Readme](https://github.com/eclipse-emf/org.eclipse.emf#readme)
-- [EMF Contributing](https://github.com/eclipse-emf/org.eclipse.emf/CONTRIBUTING.md)
+- [EMF Contributing](https://github.com/eclipse-emf/org.eclipse.emf/blob/master/CONTRIBUTING.md)
 - [EMF Updates](https://download.eclipse.org/modeling/emf/emf/builds/)
 - [EMF Discussions](https://github.com/eclipse-emf/org.eclipse.emf/discussions)
 - [EMF Issues](https://github.com/eclipse-emf/org.eclipse.emf/issues)
